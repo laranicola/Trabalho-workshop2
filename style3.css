@@ -18,7 +18,7 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 .card {
@@ -26,7 +26,7 @@ body {
   padding: 30px;
   border-radius: 4%;
   box-shadow: 3px 3px 1px 0px #00000060;
-  width: 700px;
+  width: 720px;
 }
 
 h1{
@@ -44,7 +44,7 @@ h1{
   background-color: transparent;
   outline: none;
   min-width: 180px;
-  font-size: 40px;
+  font-size: 16px;
   transition: all .3s ease-out;
   border-radius: 0;
   
@@ -55,7 +55,7 @@ h1{
   padding-top: 13px;
   margin-top: 5%;
   margin-bottom: 5%;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .label-float input:focus{
@@ -74,7 +74,7 @@ h1{
 
 .label-float input:focus + label,
 .label-float input:valid + label{
-  font-size: 20px;
+  font-size: 13px;
   margin-top: 0;
   color: black;
 }
@@ -85,7 +85,7 @@ button{
   color: black;
   padding: 7px;
   font-weight: bold;
-  font-size: 15pt;
+  font-size: 20pt;
   margin-top: 20px;
   border-radius: 4px;
   cursor: pointer;
