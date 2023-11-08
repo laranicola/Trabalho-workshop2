@@ -50,25 +50,30 @@ a{
     width:700px;
     height: 625px;
 }
+.vs{
+    width:100%;
+    height: 615px;
+}
 .text{
     display: flex;
     text-align: center;
     
 }
 .susto{
-    width:700px;
-    height: 625px;
+    width:530px;
+    height: 620px;
 }
 .liga{
-    width:700px;
-    height: 625px;
+    width:650px;
+    height: 615px;
 }
 .pessoas{
-    width:700px;
+    width:650px;
     height: 625px;
 }
 .rodape{
     background-color: #f7cef1;
+    width: 100%;
 }
 .redes{
     text-align: center;
