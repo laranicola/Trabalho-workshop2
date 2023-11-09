@@ -36,23 +36,26 @@ a{
     color: black;
 }
 .comeco{
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 .banner{
-    width: 100%;
+    width: 1905px;
 }
 .exp{
     display: flex;
     text-align: center;
 }
 .cerebro{
-    width:700px;
-    height: 625px;
+    width:600px;
+    height: 550px;
 }
 .vs{
-    width:100%;
-    height: 615px;
+    width:400px;
+    height: 550px;
+}
+.autoajuda{
+    width:450px;
+    height: 550px;
 }
 .text{
     display: flex;
@@ -60,20 +63,20 @@ a{
     
 }
 .susto{
-    width:530px;
-    height: 620px;
+    width:400px;
+    height: 530px;
 }
 .liga{
-    width:650px;
-    height: 615px;
+    width:420px;
+    height: 530px;
 }
 .pessoas{
-    width:650px;
-    height: 625px;
+    width:500px;
+    height: 530px;
 }
 .rodape{
     background-color: #f7cef1;
-    width: 100%;
+    width: 1905px;
 }
 .redes{
     text-align: center;

@@ -1,3 +1,33 @@
 body{
     background-color: #f7cef1;
+    
+}
+.mae{
+    background-color: #ffffff80;
+    padding: 30px;
+    border-radius: 4%;
+    box-shadow: 3px 3px 1px 0px #00000060;
+    width: 1000px;
+    height: 165px;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+h2{
+    margin-bottom: 0%;
+}
+.titulo{
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+    margin-top: 5px;
+}
+.seta{
+    width: 25px;
+    height: 25px;
+}
+.casa{
+    width: 25px;
+    height: 25px;
 }
