@@ -57,23 +57,6 @@ a{
     width:450px;
     height: 550px;
 }
-.text{
-    display: flex;
-    text-align: center;
-    
-}
-.susto{
-    width:400px;
-    height: 530px;
-}
-.liga{
-    width:420px;
-    height: 530px;
-}
-.pessoas{
-    width:500px;
-    height: 530px;
-}
 .rodape{
     background-color: #f7cef1;
     width: 1905px;
@@ -102,6 +85,12 @@ a{
     height: 56px;
     margin-top: 5px;
 
+}
+.comunitario{
+    text-align: center;
+}
+p{
+    font-size: 18px;
 }
     
     
