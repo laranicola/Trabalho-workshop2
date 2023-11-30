@@ -1,7 +1,6 @@
 body{
     margin: 0%;
     padding: 0%;
-    overflow-x: hidden;
 }
 .cabecalho{
     width: 98,5%;
@@ -44,8 +43,8 @@ a{
 }
 .exp{
     display: flex;
+    padding-left: 50px;
     text-align: center;
-    justify-content: center;
 }
 .cerebro{
     width:600px;
@@ -61,10 +60,14 @@ a{
 }
 .rodape{
     background-color: #f7cef1;
-    width: 1905px;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    justify-content: center;
 }
 .redes{
     text-align: center;
+   
 }
 .insta{
     width: 61px;
