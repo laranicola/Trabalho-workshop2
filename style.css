@@ -39,7 +39,7 @@ a{
     text-align: center;
 }
 .banner{
-    width: 1905px;
+    width: 1574px;
 }
 .exp{
     display: flex;
@@ -61,12 +61,13 @@ a{
 .rodape{
     background-color: #f7cef1;
     width: 100%;
-    overflow: hidden;
+    
     position: absolute;
     justify-content: center;
 }
 .redes{
     text-align: center;
+    overflow: hidden;
    
 }
 .insta{
