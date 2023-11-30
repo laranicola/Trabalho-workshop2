@@ -52,7 +52,11 @@ a{
 }
 .vs{
     width:400px;
-    height: 550px;
+    height: 510px;
+}
+.texto3{
+    margin-top: 40px;
+
 }
 .autoajuda{
     width:450px;
