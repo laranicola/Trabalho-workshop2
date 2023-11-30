@@ -45,6 +45,7 @@ a{
 .exp{
     display: flex;
     text-align: center;
+    justify-content: center;
 }
 .cerebro{
     width:600px;
