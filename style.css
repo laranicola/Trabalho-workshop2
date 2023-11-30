@@ -43,7 +43,7 @@ a{
 }
 .exp{
     display: flex;
-    padding-left: 50px;
+    padding-left: 5px;
     text-align: center;
 }
 .cerebro{
@@ -64,7 +64,7 @@ a{
 }
 .rodape{
     background-color: #f7cef1;
-    width: 100%;
+    width: 1574px;
     
     position: absolute;
     justify-content: center;
